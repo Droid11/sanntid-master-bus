@@ -11,7 +11,7 @@ Use the `-g` option to make the command globally available as `sanntid`.
 
 ## How to work it
 
-### As a CLI
+### As a CLI ###
 
     ./sanntid.js <locationID>
 
